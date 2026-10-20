@@ -1,0 +1,14 @@
+{
+  "name": "access-tools",
+  "version": "0.1.0",
+  "description": "Prepare invitations through a connected account.",
+  "apps": "./.app.json",
+  "interface": {
+    "displayName": "Access Tools",
+    "shortDescription": "Prepare invitations",
+    "longDescription": "Prepare invitations and email using a connected account. Requires existing access. Email is sent manually.",
+    "category": "Productivity",
+    "capabilities": ["Read", "Write"],
+    "defaultPrompt": ["List the available inviters."]
+  }
+}
