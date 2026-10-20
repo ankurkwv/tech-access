@@ -1,14 +1,14 @@
 {
-  "name": "access-tools",
+  "name": "tech-access",
   "interface": {
-    "displayName": "Access Tools"
+    "displayName": "Tech Access"
   },
   "plugins": [
     {
-      "name": "access-tools",
+      "name": "tech-access",
       "source": {
         "source": "local",
-        "path": "./plugins/access-tools"
+        "path": "./plugins/tech-access"
       },
       "policy": {
         "installation": "AVAILABLE",

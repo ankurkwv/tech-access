@@ -1,6 +1,6 @@
 {
   "apps": {
-    "access_tools": {
+    "tech_access": {
       "id": "plugin_asdk_app_sites_2dc9b6377850819180a7a350b3edcad2",
       "required": true
     }

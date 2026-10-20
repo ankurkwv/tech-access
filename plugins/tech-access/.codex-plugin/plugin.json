@@ -1,14 +1,19 @@
 {
-  "name": "access-tools",
-  "version": "0.1.0",
+  "name": "tech-access",
+  "version": "0.1.1",
   "description": "Prepare invitations through a connected account.",
   "apps": "./.app.json",
   "interface": {
-    "displayName": "Access Tools",
+    "displayName": "Tech Access",
     "shortDescription": "Prepare invitations",
     "longDescription": "Prepare invitations and email using a connected account. Requires existing access. Email is sent manually.",
     "category": "Productivity",
-    "capabilities": ["Read", "Write"],
-    "defaultPrompt": ["List the available inviters."]
+    "capabilities": [
+      "Read",
+      "Write"
+    ],
+    "defaultPrompt": [
+      "List the available inviters."
+    ]
   }
 }
